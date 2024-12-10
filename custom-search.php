@@ -4,7 +4,7 @@
  *
  * Description: A custom search plugin for WooCommerce products with AJAX functionality.
  *
- * Version: 1.0.0
+ * Version: 2.0.0
  *
  * Author: hassan Ali Askari
  * Author URI: https://t.me/hassan7303
