@@ -30,7 +30,6 @@
 
 # Custom Product Search Plugin
 
-**Version:** 1.0.0  
 **Author:** Hassan Ali Askari  
 **Author URI:** [Telegram](https://t.me/hassan7303)  
 **Plugin URI:** [GitHub](https://github.com/hassan7303)  
